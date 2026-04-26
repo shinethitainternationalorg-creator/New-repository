@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Shine Thita International Organization | Youth Empowerment Nepal</title>
+
+<meta name="description" content="Shine Thita International Organization provides youth empowerment, leadership training, and career opportunities in Nepal.">
+
+<meta name="google-site-verification" content="PASTE_YOUR_CODE_HERE" />
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+<style>
+body{margin:0;font-family:'Poppins',sans-serif;background:#f4f6fb;color:#333}
+header{background:#0a2540;color:#fff;padding:20px;text-align:center}
+header h1{margin:0;font-size:26px}
+nav{background:#111;display:flex;justify-content:center}
+nav a{color:#fff;padding:12px 18px;text-decoration:none}
+nav a:hover{background:#0a2540}
+.hero{background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('https://images.unsplash.com/photo-1521737604893-d14cc237f11d');height:300px;display:flex;align-items:center;justify-content:center;color:#fff;text-align:center}
+.hero h2{font-size:28px}
+.container{padding:20px;max-width:1100px;margin:auto}
+.card{background:#fff;padding:20px;margin-bottom:20px;border-radius:10px;box-shadow:0 5px 15px rgba(0,0,0,0.1)}
+.btn{background:#0a2540;color:#fff;padding:10px 18px;border-radius:6px;text-decoration:none;display:inline-block}
+.btn:hover{background:#163d66}
+footer{background:#111;color:#fff;text-align:center;padding:15px}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Shine Thita International Organization Pvt. Ltd.</h1>
+<p>Empowering Youth & Creating Opportunities</p>
+</header>
+
+<nav>
+<a href="#">Home</a>
+<a href="#about">About</a>
+<a href="#services">Services</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<div class="hero">
+<h2>Build Your Career With Us</h2>
+</div>
+
+<div class="container">
+
+<div class="card">
+<h2>Welcome</h2>
+<p>We help youth develop skills, leadership qualities, and career opportunities through training and mentorship programs.</p>
+<a href="https://wa.me/9779763969292" class="btn">Join Now (WhatsApp)</a>
+</div>
+
+<div class="card" id="about">
+<h2>About Us</h2>
+<p>We are focused on youth empowerment, entrepreneurship, and leadership development in Nepal. Our mission is to create opportunities and guide individuals toward success.</p>
+</div>
+
+<div class="card" id="services">
+<h2>Our Services</h2>
+<ul>
+<li>Marketing & Promotion</li>
+<li>Leadership Development</li>
+<li>Skill Training</li>
+<li>Career Guidance</li>
+<li>Business Opportunities</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Career Path</h2>
+<p>Step 1: Marketing Training</p>
+<p>Step 2: Leadership Development</p>
+<p>Step 3: Office Management</p>
+<p><strong>Goal: Branch Manager</strong></p>
+</div>
+
+<div class="card" id="contact">
+<h2>Contact Us</h2>
+<p>Email: shinethitaorg123@gmail.com</p>
+<p>Phone: +977-9763969292</p>
+<p>Location: Lalitpur, Nepal</p>
+
+<a href="tel:+9779763969292" class="btn">Call Now</a>
+</div>
+
+</div>
+
+<footer>
+<p>© 2026 Shine Thita International Organization Pvt. Ltd.</p>
+</footer>
+
+</body>
+</html>
